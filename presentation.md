@@ -17,9 +17,9 @@ title: The Intro
 
 ## Organization
 
+* One interesting link
 * Clash of Titans Groups
-* Less AM/PM
-* More hear -> do
+* Hear -> Do
 * All in the Groups
 * One Computer in the Group as Dev Machine
 
@@ -56,9 +56,13 @@ title: Tools, APIs
 
 ---
 
-# Monday - Tools, APIs
+## Monday - Tools, APIs
 
 ---
+
+## Link of the Day
+
+http://blog.visme.co/best-information-graphics-2016/
 
 ## Github
 
@@ -73,10 +77,25 @@ Backend for storing and managing presentation files for Showrum.
 
 ---
 
+## Project specification
+
+* Presentation management
+* User management
+* User authentication and authorization
+
+---
+
 ## Tools - Editor
 
 * Editor - http://atom.io
 * Hands-on
+
+---
+
+## Tools - Remoting
+
+* SSH, RDP, TeamViewer
+* Curl, Wuzz
 
 ---
 
@@ -94,8 +113,10 @@ Backend for storing and managing presentation files for Showrum.
 
 * Dockerfile
 * Simple static hosting
-* Your project 
-* Hands-on 
+* Sample project
+* Hands-on
+
+---
 
 ## APIs - Basics
 
@@ -123,11 +144,91 @@ Backend for storing and managing presentation files for Showrum.
 
 ---
 
+## Q&A
+
+===
+
+---
+author: Pepe
+date: 2017-02-19
+title: Serving
+---
+
+# Contemporary Backend Development
+
+---
+
+## Tuesday - Serving
+
+---
+
+## Languages
+
+* Imperative
+* Object Oriented
+* Functional
+* Hybrid
+
+---
+
+## Imperative
+
+* C
+* Lua
+* Out of favor these days
+
+---
+
+## Object Oriented
+
+* SmallTalk
+* Java, C#, C++, Swift
+* Ruby, Python, PHP
+* In full swing
+
+---
+
+## Functional
+
+* Lisp, Clojure, Racket
+* Haskel, OCaml, Elm
+* Scala
+
+---
+
+## Hybrid
+
+* Almost of the already mentioned
+* JavaScript
+
+---
+
+## Frameworks
+
+* Ruby - Ruby on Rails
+* Python - Django
+* Java, Scala - Play
+* Clojure - Pedestal
+* PHP - Symphony
+* JavaScript - Express.js
+
+---
+
+## Express.js
+
+* Node.js based
+* Very simple a configurable
+* Used heavily
+* Hands on
+
+---
+
 ## Hosting service providers
 
 * Digital Ocean
 * Amazon AWS
 * Microsoft Azure
+* Hands on
 
 ---
 
@@ -140,3 +241,30 @@ Backend for storing and managing presentation files for Showrum.
 * OpenSensors - https://www.opensensors.io
 
 ===
+
+---
+author: Pepe
+date: 2017-02-19
+title: Storage
+---
+
+# Contemporary Backend Development
+
+---
+
+## Wednesday - Storage
+
+
+===
+
+---
+author: Pepe
+date: 2017-02-19
+title: Project
+---
+
+# Contemporary Backend Development
+
+---
+
+## Thursday - Project
