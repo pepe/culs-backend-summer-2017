@@ -21,7 +21,6 @@ title: The Intro
 * Clash of Titans Groups
 * Hear -> Do
 * All in the Groups
-* One Computer in the Group as Dev Machine
 
 ---
 
@@ -30,7 +29,7 @@ title: The Intro
 * Monday - Tools, APIs
 * Tuesday - Serving
 * Wednesday - Storage
-* Thursday - Project
+* Thursday - All together
 * Friday - Evaluation
 
 ---
@@ -62,7 +61,7 @@ title: Tools, APIs
 
 ## Link of the Day
 
-http://blog.visme.co/best-information-graphics-2016/
+Information http://blog.visme.co/best-information-graphics-2016/
 
 ## Github
 
@@ -96,6 +95,7 @@ Backend for storing and managing presentation files for Showrum.
 
 * SSH, RDP, TeamViewer
 * Curl, Wuzz
+* Hands on
 
 ---
 
@@ -132,6 +132,7 @@ Backend for storing and managing presentation files for Showrum.
 * Swagger - http://swagger.io
 * JSON API - http://jsonapi.org
 * Apiary - http://apiary.io
+* Pepe's project https://app.apiary.io/showrumbackend
 
 ---
 
@@ -260,11 +261,11 @@ title: Storage
 ---
 author: Pepe
 date: 2017-02-19
-title: Project
+title: All together
 ---
 
 # Contemporary Backend Development
 
 ---
 
-## Thursday - Project
+## Thursday - All together
