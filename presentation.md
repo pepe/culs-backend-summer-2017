@@ -132,7 +132,7 @@ Backend for storing and managing presentation files for Showrum.
 * Swagger - http://swagger.io
 * JSON API - http://jsonapi.org
 * Apiary - http://apiary.io
-* Pepe's project https://app.apiary.io/showrumbackend
+* Pepe's project http://docs.showrumbackend.apiary.io/
 
 ---
 
