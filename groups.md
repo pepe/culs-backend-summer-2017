@@ -16,5 +16,10 @@ GROUP 1
 * Okoye Nzube Victor
 * M. Nivardo Villanueva Duran
 
+# Group 3
+* Jan Jerabek
+* Seifeldin Azzam
+* Xheni Haka
+
 ## Topic
 **TBD**
