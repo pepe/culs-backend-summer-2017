@@ -1,4 +1,12 @@
-Groups should be there ...
+GROUP 1
+  *Andres Botero
+  *Volha Adziarykha
+  *Sheikh Alam
+  *Makina Rahman
+  *...available spot...
+  *...available spot...
+  
+  
 
 # Group 1
 ## Team members
