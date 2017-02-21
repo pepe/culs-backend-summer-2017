@@ -9,6 +9,8 @@ Steps to reproduce:
 3. Generate `express -H express-basic`
 4. Install deps `cd express-basic/; and yarn|npm install`
 5. Run the app `DEBUG=express-basic:* npm start`
+6. Install `npm install -g nodemon`
+7. Run `nodemon start` for reloading in development
 
 ### Docker image
 
@@ -18,4 +20,3 @@ Steps to reproduce:
 9. Go to `localhost:8080`
 10. Run `docker stop node-docker`
 10. Run `docker start node-docker`
-
