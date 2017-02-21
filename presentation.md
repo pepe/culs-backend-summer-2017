@@ -163,6 +163,11 @@ title: Serving
 
 ---
 
+## Link of the Day
+
+https://www.thoughtworks.com/insights/blog/22-rules-ux
+
+---
 ## Languages
 
 * Imperative
@@ -221,6 +226,13 @@ title: Serving
 * Very simple a configurable
 * Used heavily
 * Hands on
+
+---
+
+## HTTP servers
+
+* Apache
+* Nginx
 
 ---
 
