@@ -356,19 +356,19 @@ https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/
 
 ---
 
+## Express.js statuses
+
+* Set on response
+* No need for any other information
+
+---
+
 ## Mongoose.js
 
 * Access MongoDB from JS
 * Very Simple API
 * Models
 * Querying
-
----
-
-## Express.js statuses
-
-* Set on response
-* No need for any other information
 
 ===
 
