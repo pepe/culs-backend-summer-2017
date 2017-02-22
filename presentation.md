@@ -1,6 +1,6 @@
 ---
-author: Pepe
-date: 2017-02-12
+author: Josef Pospíšil
+date: 2017-02-20
 title: The Intro
 ---
 
@@ -46,8 +46,8 @@ We will create some backend project this time. Step by step.
 ===
 
 ---
-author: Pepe
-date: 2017-02-12
+author: Josef Pospíšil
+date: 2017-02-20
 title: Tools, APIs
 ---
 
@@ -132,7 +132,7 @@ Backend for storing and managing presentation files for Showrum.
 * Swagger - http://swagger.io
 * JSON API - http://jsonapi.org
 * Apiary - http://apiary.io
-* Pepe's project http://docs.showrumbackend.apiary.io/
+* Josef Pospíšil's project http://docs.showrumbackend.apiary.io/
 
 ---
 
@@ -150,8 +150,8 @@ Backend for storing and managing presentation files for Showrum.
 ===
 
 ---
-author: Pepe
-date: 2017-02-19
+author: Josef Pospíšil
+date: 2017-02-21
 title: Serving
 ---
 
@@ -262,8 +262,8 @@ https://www.thoughtworks.com/insights/blog/22-rules-ux
 ===
 
 ---
-author: Pepe
-date: 2017-02-19
+author: Josef Pospíšil
+date: 2017-02-22
 title: Storage
 ---
 
@@ -273,12 +273,108 @@ title: Storage
 
 ## Wednesday - Storage
 
+---
+
+## Link of the Day
+
+https://ar.al/notes/encouraging-individual-sovereignty-and-a-healthy-commons/
+
+---
+
+## Kinds 
+
+* File
+* Databases
+
+---
+
+## File formats
+
+* Binary
+* CSV
+* Markdown
+* XML
+* JSON
+
+---
+
+## Databases
+
+* Relational
+* Key/Value
+* Document
+* Graph
+
+---
+
+## Relational
+
+* MySQL
+* PostgreSQL
+* Oracle
+* MSSQL
+
+---
+
+## Key/Value
+
+* Redis
+* Riak
+* DynamoDB
+
+---
+
+## Document
+
+* MongoDB
+* CouchDB
+* RethinkDB
+* ElasticSearch
+
+---
+
+## Graph
+
+* Neo4J
+* OrientDB
+* ArangoDB
+
+---
+
+## MongoDB
+
+* JSON based
+* Dynamic Schema
+* Query Language
+
+---
+
+## Real database
+
+* CMS and Commerce
+* Hands on
+
+---
+
+## Mongoose.js
+
+* Access MongoDB from JS
+* Very Simple API
+* Models
+* Querying
+
+---
+
+## Express.js statuses
+
+* Set on response
+* No need for any other information
 
 ===
 
 ---
-author: Pepe
-date: 2017-02-19
+author: Josef Pospíšil
+date: 2017-02-23
 title: All together
 ---
 
@@ -287,3 +383,17 @@ title: All together
 ---
 
 ## Thursday - All together
+
+===
+
+---
+author: Josef Pospíšil
+date: 2017-02-24
+title: Final outshout
+---
+
+# Contemporary Backend Development
+
+---
+
+## Friday - Final outshout
