@@ -384,6 +384,28 @@ title: All together
 
 ## Thursday - All together
 
+---
+
+## Link of the Day
+
+https://auth0.com/blog/glossary-of-modern-javascript-concepts/
+
+---
+
+## What is needed for tomorrow
+
+* Clash
+* Apiary
+* Project
+
+## Docker compose
+
+* Run more containers at once
+* Create links between them
+* Change attributes of Dockerfile
+
+
+
 ===
 
 ---
