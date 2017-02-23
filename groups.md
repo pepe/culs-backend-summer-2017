@@ -19,6 +19,7 @@
 * Jan Jerabek
 * Seifeldin Azzam
 * Xheni Haka
+* Leul Aberra Challa
 
 # Group 4
 * Vojtěch Zelený
