@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>{{ title }}</h1>
-    <p>Welcome to {{ title }}</p>
+    <p>Welcome to {{ title }} and be happy to still be alive.</p>
   </body>
 </html>

@@ -145,6 +145,9 @@ Backend for storing and managing presentation files for Showrum.
 
 ---
 
+## APIs - Apiary
+
+http://docs.showrumbackend.apiary.io/#
 ## Q&A
 
 ===
@@ -397,6 +400,8 @@ https://auth0.com/blog/glossary-of-modern-javascript-concepts/
 * Clash
 * Apiary
 * Project
+
+---
 
 ## Docker compose
 
