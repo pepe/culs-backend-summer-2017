@@ -1,16 +1,7 @@
 var express = require('express');
 var router = express.Router();
 var mongoose = require('mongoose');
-
-mongoose.connect('mongodb://mongo:' + process.env.MONGO_PORT + '/showrumbackend');
-
-var User = mongoose.model('User',
-                          {
-                              login: String,
-                              password: String,
-                              name: String,
-                              email: String
-                          });
+var User = require('../models/user');
 
 router.post('/', function(req, res, next) {
     body = req.body;
