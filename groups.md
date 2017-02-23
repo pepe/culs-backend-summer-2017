@@ -7,6 +7,8 @@
 * Okoye Nzube Victor
 * M. Nivardo Villanueva Duran
 
+[Project Repo](https://github.com/linkshift/culs-backend-summer-2017)
+
 # Group 2
 * Andres Botero
 * Volha Adziarykha
