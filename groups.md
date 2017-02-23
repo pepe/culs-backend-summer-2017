@@ -21,6 +21,7 @@
 * Xheni Haka
 
 # Group 4
+- https://github.com/vharnach/SSProject.git
 * Vojtěch Zelený
 * Viktor Harnach
 * Marek Jesenský
