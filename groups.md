@@ -16,6 +16,7 @@
 * ...available spot...
   
 # Group 3
+[Repo](https://github.com/honzajerabek/culs-backend-summer-2017)
 * Jan Jerabek
 * Seifeldin Azzam
 * Xheni Haka
