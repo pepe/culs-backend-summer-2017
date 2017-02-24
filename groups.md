@@ -21,6 +21,7 @@
 * Jan Jerabek
 * Seifeldin Azzam
 * Xheni Haka
+* Leul Aberra Challa
 
 # Group 4
 - https://github.com/vharnach/SSProject.git
