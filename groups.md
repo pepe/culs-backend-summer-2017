@@ -14,8 +14,9 @@
 * Volha Adziarykha
 * Sheikh Alam
 * Makina Rahman
-* ...available spot...
-* ...available spot...
+https://github.com/maaboterosi/pepestudyblock
+http://docs.tutoru.apiary.io/#
+
   
 # Group 3
 [Repo](https://github.com/honzajerabek/culs-backend-summer-2017)
